@@ -1,0 +1,31 @@
+Listado de rutas de carpetas
+El n£mero de serie del volumen es 0000001F 28AD:CACB
+C:\USERS\TELEA\ONEDRIVE\ESCRITORIO\MODULO_6\FFFINAL\RERE\PROYECTO_VEHICULOS_DJANGO
+|   .gitignore
+|   manage.py
+|   README.md
+|   requirements.txt
+|   tree.txt
+|   
++---config
+|   |   asgi.py
+|   |   settings.py
+|   |   urls.py
+|   |   wsgi.py
+|   |   __init__.py
+|   |   
+|   \---__pycache__
+|           settings.cpython-312.pyc
+|           __init__.cpython-312.pyc
+|           
+\---vehiculo
+    |   admin.py
+    |   apps.py
+    |   models.py
+    |   tests.py
+    |   views.py
+    |   __init__.py
+    |   
+    \---migrations
+            __init__.py
+            
